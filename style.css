@@ -1,0 +1,15 @@
+.container{
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+}
+fieldset{
+    border: 1px solid cadetblue;
+    border-radius: 5px;
+    padding: 20px;
+    width: 300px;
+}
+.container2{
+    background-color: bisque;
+}
